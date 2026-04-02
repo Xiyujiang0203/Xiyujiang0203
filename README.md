@@ -1,8 +1,11 @@
+
+
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, XyJiang</h1>
+
 
 - 🌱 Education:
     - Bachelor of Engineering | School of Computer Science and Technology, Guilin University of Electronic Technology (GUET), 2021-2025
-    - Master of Engineering (Currently) | School of Artificial Intelligence, Xiamen University (XMU), 2025-2028
+    - Master of Engineering (Expected) | School of Artificial Intelligence, Xiamen University (XMU), 2025-2028
 
 - ⚡
 Although I don’t specialize in AI research, I maintain a keen interest in artificial intelligence.
@@ -52,3 +55,4 @@ WeChat: Xyjiang0203
 | IDE | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-2D2D2D?style=for-the-badge&logoColor=white) |
 | OS | ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | Other | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) |
+
