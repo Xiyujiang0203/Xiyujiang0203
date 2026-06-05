@@ -38,10 +38,6 @@ WeChat: Xyjiang0203
 </div>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Xiyujiang0203&hide_border=true&background=FFFFFF00" alt="streak" />
-</div>
-
 ### 💫 Tech Stack and Tools
 
 | Domain | Skills |
