@@ -18,7 +18,7 @@ Although I don’t specialize in AI research, I maintain a keen interest in arti
 TBD
 
 - 🎮 Game:
-I play Honor of Kings occasionally, but generally speaking, I don't play games very often.
+I don't play games much nowadays.
 
 - 📫 How to reach me:
 Email: jiangxiyu@stu.xmu.edu.cn (Not a frequently used email, slow response time.)
