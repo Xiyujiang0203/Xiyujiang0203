@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - 'templates/**'
+      - '.github/scripts/update_readme.py'
+      - '.github/workflows/update-header.yml'
 
 permissions:
   contents: write
