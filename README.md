@@ -5,7 +5,7 @@
 
 - 🌱 Education:
     - Bachelor of Engineering | School of Computer Science and Technology, Guilin University of Electronic Technology (GUET), 2021-2025
-    - Master of Engineering (Now) | School of Artificial Intelligence, Xiamen University (XMU), 2025-2028
+    - Master of Engineering in Artificial Intelligence (Now) | School of Information, Xiamen University (XMU), 2025-2028
 
 - ⚡
 Although I don’t specialize in AI research, I maintain a keen interest in artificial intelligence.
