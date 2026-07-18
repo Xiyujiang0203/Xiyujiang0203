@@ -23,6 +23,9 @@ Email: jiangxiyu@stu.xmu.edu.cn (Not a frequently used email, slow response time
 WeChat: Xyjiang0203
 - Blog: https://xiyujiang0203.github.io
 
+- 🌐 Blog: [XYJIANG](https://xiyujiang0203.github.io)
+- 💕 Love: [xyyt小站](https://www.xyyt.love/)
+
 - Committed to full-stack development, and always happy to discuss interesting technologies with you 😎
 - 🌟 Have a Nice day! 🌟
 
