@@ -23,7 +23,6 @@ I don't play games much nowadays.
 - 📫 How to reach me:
 Email: jiangxiyu@stu.xmu.edu.cn (Not a frequently used email, slow response time.)
 WeChat: Xyjiang0203
-- Blog: https://xiyujiang0203.github.io
 
 - 🌐 Blog: [XYJIANG](https://xiyujiang0203.github.io)
 - 💕 Love: [XY❤️YT](https://www.xyyt.love/)
