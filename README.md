@@ -11,6 +11,8 @@
 
 - 🔬 Research Focus: Network-layer verification acceleration
 
+- 🧭 Life Anchors: Exploring technology, reading, and love
+
 - 🧑🏻‍💻 Development ability: Backend (Spring Boot & Go) && Frontend (Android & Flutter)
 
 - 💼 Internship:
