@@ -7,8 +7,7 @@
     - Bachelor of Engineering in Computer Science and Technology | School of Computer and Information Security, Guilin University of Electronic Technology (GUET), 2021-2025
     - Master of Engineering in Artificial Intelligence (Now) | School of Information, Xiamen University (XMU), 2025-2028
 
-- ⚡
-Although I don’t specialize in AI research, I maintain a keen interest in artificial intelligence.
+- ⚡ 兴趣与职业方向：AI 工程落地，持续关注模型推理优化、轻量化部署及边缘端 AI 应用。
 
 - 🧑🏻‍💻 Development ability: Backend (Spring Boot & Go) && Frontend (Android & Flutter)
 
