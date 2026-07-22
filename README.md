@@ -11,6 +11,8 @@
 
 - ⚡ Interests & Career Focus: AI engineering for real-world deployment — continuously following model inference optimization, lightweight deployment, and edge AI applications.
 
+- 🔬 Research Focus: Network-layer verification acceleration
+
 - 🧑🏻‍💻 Development ability: Backend (Spring Boot & Go) && Frontend (Android & Flutter)
 
 - 💼 Internship:
