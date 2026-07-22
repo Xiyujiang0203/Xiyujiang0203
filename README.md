@@ -11,7 +11,7 @@
 
 - 🔬 Research Focus: Network-layer verification acceleration
 
-- 🧭 Life Anchors: Exploring technology, reading, and love
+- 🧭 Life Anchors: Exploring technology, reading, love, music, travel, and sports
 
 - 🧑🏻‍💻 Development ability: Full-stack, mainly Android and AI
 
