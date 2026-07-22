@@ -13,7 +13,7 @@
 
 - 🧭 Life Anchors: Exploring technology, reading, and love
 
-- 🧑🏻‍💻 Development ability: Backend (Spring Boot & Go) && Frontend (Android & Flutter)
+- 🧑🏻‍💻 Development ability: Full-stack, mainly Android and AI
 
 - 💼 Internship:
 TBD
