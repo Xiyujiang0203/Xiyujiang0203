@@ -35,6 +35,7 @@ WeChat: Xyjiang0203
 
 ## ✨Featured Projects
 
+- [XMUCourseApp](https://github.com/Xiyujiang0203/XMUCourseApp) - Xiamen University course schedule Android app
 - [easy_write](https://github.com/Xiyujiang0203/easy_write) - A bookkeeping app built with Kotlin and Jetpack Compose
 - [PDF2MarkdownTool](https://github.com/Xiyujiang0203/PDF2MarkdownTool) - Convert PDF files to Markdown
 - [xiaxinfeixiang-jiangzuo](https://github.com/Xiyujiang0203/xiaxinfeixiang-jiangzuo) - Xiamen Information lecture project
