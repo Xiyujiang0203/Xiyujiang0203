@@ -4,7 +4,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 readme = ROOT / "README.md"
 now = datetime.now(timezone(timedelta(hours=8)))
-odd = now.hour % 2 == 1
+odd = now.toordinal() % 2 == 1
 content = readme.read_text(encoding="utf-8")
 
 def replace(content, start, end, body):
